@@ -35,7 +35,7 @@ h1,h4,p{
 .cards{
     display: grid;
     gap: 10px;
-    grid-template-columns: 190px 190px 190px;
+    grid-template-columns: 190px 190px 190px 190px;
     max-width: 1200px;
     margin: 10px;
 }
